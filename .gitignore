@@ -1,0 +1,16 @@
+venv01/
+
+*.env
+
+#Marimo
+marimo/_static/
+marimo/_lsp/
+_marimo_/
+
+#streamlit
+.streamlit/secrets.tom1
+
+#Bases de dados
+*.csv
+*.xls
+*.xlsx
